@@ -1,0 +1,23 @@
+{
+  "name": "5-canvasrotate",
+  "version": "1.0.0",
+  "description": "Understanding the rotation in the canvas.",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estebanpadilla/5-canvasRotate.git"
+  },
+  "keywords": [],
+  "author": "Esteban Padilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estebanpadilla/5-canvasRotate/issues"
+  },
+  "homepage": "https://github.com/estebanpadilla/5-canvasRotate#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
