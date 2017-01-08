@@ -4,7 +4,7 @@
   "description": "Understanding the rotation in the canvas.",
   "main": "index.js",
   "scripts": {
-    "start": "lite-server"
+    "start": "browser-sync start --s --f *.css, *.js, *.html"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/estebanpadilla/5-canvasRotate#readme",
   "devDependencies": {
-    "lite-server": "^2.2.2"
+    "browser-sync": "^2.18.6"
   }
 }
